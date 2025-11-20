@@ -92,7 +92,7 @@ src/
  │   │    │    └─ page.tsx          # 가맹점 상세 목록 페이지
  │   │    └─ detail/
  │   │         └─ [mchtCode]/
- │   │              └─ page.tsx     # 가맹점 상세 보기 페이지
+ │   │              └─ page.tsx     # 가맹점 코드별 상세 페이지
  │
  ├─ api/
  │   ├─ payments.ts                 # 결제 API
